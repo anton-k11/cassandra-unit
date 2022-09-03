@@ -142,8 +142,8 @@
                             <groupId>org.apache.maven.plugins</groupId>
                             <artifactId>maven-surefire-plugin</artifactId>
                             <configuration>
-                                <argLine>-Dfile.encoding=${project.build.sourceEncoding}</argLine>
                                 <argLine>
+                                    -Dfile.encoding=UTF-8
                                     --add-exports java.base/jdk.internal.ref=ALL-UNNAMED
                                     --add-exports cassandra-all-4.0.3/org.apache.cassandra=ALL-UNNAMED
                                 </argLine>

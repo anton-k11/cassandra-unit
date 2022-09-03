@@ -1,8 +1,11 @@
+#### DISCLAIMER:
+The repository was forked from https://github.com/jsevellec/cassandra-unit. Unfortunately the original project does not seem to be maintained anymore.
+
 WELCOME to CassandraUnit
 ========================
 
 Everything is in the wiki : 
-https://github.com/jsevellec/cassandra-unit/wiki
+https://github.com/anton-k11/cassandra-unit/wiki
 
 What is it?
 -----------
@@ -22,10 +25,10 @@ Main features :
 Where to start :
 ----------------
 You can start by reading the wiki : 
-https://github.com/jsevellec/cassandra-unit/wiki
+https://github.com/anton-k11/cassandra-unit/wiki
 
 and you can watch cassandra-unit-examples project.
-https://github.com/jsevellec/cassandra-unit-examples
+https://github.com/anton-k11/cassandra-unit-examples
 
 ____________________________________________________
 

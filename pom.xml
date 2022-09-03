@@ -6,7 +6,7 @@
     <name>cassandra-unit-parent</name>
     <version>5.0.0-SNAPSHOT</version>
     <description>Test framework to develop with Cassandra</description>
-    <url>https://github.com/jsevellec/cassandra-unit</url>
+    <url>https://github.com/anton-k11/cassandra-unit.git</url>
     <licenses>
         <license>
             <name>GNU LESSER GENERAL PUBLIC LICENSE V3.0</name>
@@ -21,9 +21,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:https://github.com/jsevellec/cassandra-unit.git</connection>
-        <developerConnection>scm:git:https://github.com/jsevellec/cassandra-unit.git</developerConnection>
-        <url>https://github.com/jsevellec/cassandra-unit.git</url>
+        <connection>scm:git:https://github.com/anton-k11/cassandra-unit.git</connection>
+        <developerConnection>scm:git:https://github.com/anton-k11/cassandra-unit.git</developerConnection>
+        <url>https://github.com/anton-k11/cassandra-unit.git</url>
       <tag>cassandra-unit-parent-3.3.0.0</tag>
   </scm>
     <modules>
